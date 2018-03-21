@@ -1,0 +1,32 @@
+.field {
+	font-size: x-small;
+}
+
+.fieldValue {
+	font-size: small;
+}
+
+.entity {
+	font-size: small;
+	font-weight: bold;
+}
+
+.floatright {
+	float: right;
+}
+
+.oneTweetField {
+	font-size: small;
+}
+
+.oneTweetFieldValue {
+	font-size: medium;
+}
+
+.oneTweetBorder {
+	border: 1px solid #F5EDED;
+}
+
+.followingFieldStyle {
+	font-weight: bold;
+}
